@@ -4,17 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Test3
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Tim-Tarek Grund is a technologist and musician from Berlin, Germany. His work explores the intersections between performer, technology, interface and sound, as well as the role of performers within the socio-technical network of live-electronics. His work focuses on the application of computer vision, object detection and fiducial markers in musical and creative processes. He has presented his installations and performed at institutions in Berlin, Vienna and Nairobi. He is currently a PhD candidate at the Department of Music Acoustics – Wiener Klangstil at the University of Music and Performing Arts Vienna, where he is investigating live-electronic music performances using eye-tracking.
+He is currently researching live-electronic setups and mapping strategies in a research project funded by the Austrian Science Fund (FWF) [10.55776/AR743] in Vienna, Austria.
