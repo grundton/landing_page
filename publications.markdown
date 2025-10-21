@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Last built: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}
 
 # Publications
 
