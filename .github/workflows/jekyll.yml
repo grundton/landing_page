@@ -30,19 +30,19 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-22.04 # try ubuntu-latest?
-    steps:
-      - name: Checkout
+    steps: 
+      - name: Checkout 
         uses: actions/checkout@v4
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7.2'
-      - name: Install dependencies
+      - name: Install dependencies # gem install bundler -v 2.4.22
         run: |
-          gem install bundler -v 2.4.22
+          gem install bundler -v 2.4.
           bundle install
-      - name: Fix URI gem conflict
+      - name: Fix URI gem conflict 
         run: |
           gem uninstall uri -v 0.10.0
           gem install uri -v 1.0.3
