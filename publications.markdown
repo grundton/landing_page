@@ -7,6 +7,11 @@ Last built: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}
 
 # Publications
 
+{% bibliography %}
+
+
+
+______________________________________________________________________________________________________________________________________
 ## 2025
 1. Grund, T.-T., & Hofmann, A. (2025). Cloud Hands: Three emanations of a touchless musical assemblage. In _Proceedings of the 22nd Sound and Music Computing Conference_ (pp. 108-114). [PDF](papers/Grund_Hofmann_2025_SMC_CloudHands.pdf)
 2. Grund, T.-T., & Hofmann, A. (2025). Towards understanding performer eye gaze in live-electronic music performance (abstract). In _Proceedings of the International Symposium on Performance Science 2025_. (accepted)
