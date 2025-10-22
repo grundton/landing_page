@@ -7,7 +7,7 @@ Last built: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}
 
 # Publications
 
-{% bibliography --file _bibliography/publications.bib %}
+{% bibliography --file publications.bib %}
 
 
 
