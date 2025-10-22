@@ -40,7 +40,7 @@ jobs:
           ruby-version: '2.7.2'
       - name: Install dependencies # gem install bundler -v 2.4.22
         run: |
-          gem install bundler -v 2.4.
+          gem install bundler -v 2.4
           bundle install
       - name: Fix URI gem conflict 
         run: |
