@@ -68,5 +68,6 @@ scholar:
   bibliography: 
     - _bibliography/publications.bib
     - _bibliography/presentations.bib
+  bibliography_template: bibtemplate 
   #bibliography_list_tag: 'div'
   #bibliography_item_tag: 'p'
