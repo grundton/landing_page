@@ -62,6 +62,9 @@ plugins:
 #   - vendor/ruby/
 
 scholar:
-  style: current-opinion
+  style: apa                # optional, for formatting style
+  bibliography: 
+    - _bibliography/publications.bib
+    - _bibliography/presentations.bib
   #bibliography_list_tag: 'div'
   #bibliography_item_tag: 'p'
