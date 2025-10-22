@@ -27,11 +27,11 @@ url: "https://grundton.github.io" # the base hostname & protocol for your site, 
 github_username:  grundton
 
 # Build settings
-theme: minima
-#remote_theme: jekyll/minima
+#theme: minima
+remote_theme: jekyll/minima
 
-minima:
-  skin: dark
+#minima:
+#  skin: dark
   
 plugins:
   - jekyll-feed
