@@ -64,10 +64,11 @@ plugins:
 
 scholar:
   style: apa                # optional, for formatting style
-  repository: papers
+  repository: /papers
+  repository_file_delimiter: "." 
   bibliography: 
     - _bibliography/publications.bib
     - _bibliography/presentations.bib
-  bibliography_template: _layouts/bibtemplate 
+  #bibliography_template: _layouts/bibtemplate 
   #bibliography_list_tag: 'div'
   #bibliography_item_tag: 'p'
