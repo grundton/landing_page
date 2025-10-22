@@ -31,7 +31,8 @@ github_username:  grundton
 # _config.yml
 
 remote_theme: "jekyll/minima@1e8a445"
-  skin: dark
+
+
 #remote_theme: mmistakes/minimal-mistakes
 
 #minima:
@@ -41,7 +42,8 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
 
-
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
