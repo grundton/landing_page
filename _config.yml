@@ -30,8 +30,8 @@ github_username:  grundton
 #theme: minima
 # _config.yml
 
-#remote_theme: "jekyll/minima@1e8a445"
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: mmistakes/minimal-mistakes
 
 #minima:
 #  skin: dark
