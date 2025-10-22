@@ -64,6 +64,7 @@ plugins:
 
 scholar:
   style: apa                # optional, for formatting style
+  repository: papers
   bibliography: 
     - _bibliography/publications.bib
     - _bibliography/presentations.bib
